@@ -11,6 +11,8 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+	> DoQuynhAnh This line was added for the Git & GitHub course assignment.
 ```
 
 _© 2022 XYZ, Inc._
