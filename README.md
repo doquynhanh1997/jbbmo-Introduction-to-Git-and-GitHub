@@ -12,7 +12,10 @@ Input:
 Output
    simple interest = p*t*r
 
->>> Done
+  bug-fix-typo
+  Done
+	DoQuynhAnh This line was added for the Git & GitHub course assignment.
+  master
 ```
 
 _© 2022 XYZ, Inc._
